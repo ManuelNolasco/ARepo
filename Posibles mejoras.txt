@@ -3,5 +3,5 @@ Posibles mejoras:
 - Mejora la consulta en el login, por correo, id de usuario si propone que lo sepan o forma personalizada de crear ids o por varios campos si se desea para optimizar consultas
 - Agregar más índices sobre filtros requeridos, actual solo llave primaria id
 - Posible agregar roles a usuarios y también mantenimiento
-- Posibles acciones como actualizar contra y estado del usuario
+- Posibles acciones como actualizar contraseña y estado del usuario (iniciaré pruebas en versionado v2)
 - Previo a diseño proponer y consultar alcances y seguir recomendaciones o estándares internas de la organización o de auditorías externas
